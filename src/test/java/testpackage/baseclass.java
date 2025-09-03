@@ -57,9 +57,6 @@ public class baseclass {
 			browser = p.getProperty("browser");
 		}
 		
-		
-		
-		
 		//This line will check if browser name is coming from terminal or not
 		// if coming from terminal then use else use from property
 		//String browser = System.getProperty("browser")!=null ? System.getProperty("browser")  :   p.getProperty("browser");
